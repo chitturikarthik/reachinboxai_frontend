@@ -1,7 +1,6 @@
 #ReachInbox.ai -  Task submission for the role of ASSOCIATE FRONTEND DEVLOPER
 
 To get started with the Reach Inbox AI frontend, follow these instructions:  
-
 1. Clone the repository:  
    git clone https://github.com/chitturikarthik/reachinboxai_frontend.git
    
