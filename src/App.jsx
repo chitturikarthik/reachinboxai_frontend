@@ -1,13 +1,24 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Login from "./Pages/Login";
+import Signin from "./Pages/Signin";
+import Register from "./Pages/Register";
+import OneBox from "./Pages/OneBox";
 
-import './App.css'
 
 function App() {
-
   return (
-    <>
-      <h2 className='text-xl text-green-500 font-extrabold'>Karthik</h2>
-    </>
-  )
+    <div>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<OneBox />} />
+          <Route path="/onebox" element={<OneBox />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/signin" element={<Signin />} />
+        </Routes>
+      </BrowserRouter>
+    </div>
+  );
 }
 
-export default App
+export default App;
