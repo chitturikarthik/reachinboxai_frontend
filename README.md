@@ -1,8 +1,14 @@
-# React + Vite
+#ReachInbox.ai -  Task submission for the role of ASSOCIATE FRONTEND DEVLOPER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To get started with the Reach Inbox AI frontend, follow these instructions:  
 
-Currently, two official plugins are available:
+1. Clone the repository:  
+   git clone https://github.com/chitturikarthik/reachinboxai_frontend.git
+2.Navigate into the project directory:
+    cd reachinboxai_frontend
+3.Install the required dependencies:
+    npm install OR yarn install
+4.To run the app locally , use the command:
+    npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   For any queries, feel free to visit and contact me at https://ch-gold.vercel.app or karthikch.official@gmail.com
