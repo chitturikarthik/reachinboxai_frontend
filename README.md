@@ -6,6 +6,7 @@ To get started with the Reach Inbox AI frontend, follow these instructions:
    
 2.Navigate into the project directory:
     cd reachinboxai_frontend
+    
 3.Install the required dependencies:
     npm install OR yarn install
     
